@@ -1,0 +1,10 @@
+<problem display_name="Numerical Input" markdown="&lt;p&gt;&lt;img src=&quot;/static/0467.png&quot; /&gt;&lt;/p&gt;&#10;&#10;= 64&#10;&#10;[explanation]&#10;1/2 power is square root, then cube the result.">
+  <p>
+    <img src="/static/0467.png"/>
+  </p>
+  <numericalresponse answer="64">
+    <formulaequationinput/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>1/2 power is square root, then cube the result.</p>
+</problem>

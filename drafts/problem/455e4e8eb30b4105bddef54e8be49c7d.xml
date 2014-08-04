@@ -1,0 +1,7 @@
+<problem display_name="Numerical Input" markdown="&lt;p&gt;A car costs $20,000. It decreases in value at the rate of 20 percent each year, based on the value at the beginning of that year. At the end of how many years will the value of the car first be less than half the cost?&lt;/p&gt;&#10;&#10;= 4&#10;&#10;[explanation]&#10;">
+  <p>A car costs $20,000. It decreases in value at the rate of 20 percent each year, based on the value at the beginning of that year. At the end of how many years will the value of the car first be less than half the cost?</p>
+  <numericalresponse answer="4">
+    <formulaequationinput/>
+  </numericalresponse>
+  <p>[explanation]</p>
+</problem>

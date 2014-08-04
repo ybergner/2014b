@@ -1,0 +1,8 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;A particular flu vaccine is effective for 90 percent of the patients who receive it. What is the probability that it will be effective for both of the next two randomly selected patients? (Answer in decimal form)&lt;&lt;&#10;= 0.81&#10;&#10;[explanation]&#10;Probability of both events occuring is the product of the probability of the individual events.">
+  <p>A particular flu vaccine is effective for 90 percent of the patients who receive it. What is the probability that it will be effective for both of the next two randomly selected patients? (Answer in decimal form)</p>
+  <numericalresponse answer="0.81">
+    <formulaequationinput label="A particular flu vaccine is effective for 90 percent of the patients who receive it. What is the probability that it will be effective for both of the next two randomly selected patients? (Answer in decimal form)"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>Probability of both events occuring is the product of the probability of the individual events.</p>
+</problem>

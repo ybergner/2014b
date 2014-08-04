@@ -1,0 +1,10 @@
+<problem display_name="Numerical Input" markdown="&lt;p&gt;&lt;img src=&quot;/static/3333.JPG&quot; /&gt;&lt;/p&gt;&#10;&#10;= 7&#10;&#10;[explanation]&#10;Substitute 2 into g and then that result into f.">
+  <p>
+    <img src="/static/3333.JPG"/>
+  </p>
+  <numericalresponse answer="7">
+    <formulaequationinput/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>Substitute 2 into g and then that result into f.</p>
+</problem>

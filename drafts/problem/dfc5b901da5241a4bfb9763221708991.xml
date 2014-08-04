@@ -1,0 +1,8 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;If each of the counting numbers from 1 through 10 is multiplied by 13, how many of the resulting numbers will be even?&lt;&lt;&#10;= 5&#10;&#10;[explanation]&#10;The amount of resulting even numbers will be the same as the amount started with.">
+  <p>If each of the counting numbers from 1 through 10 is multiplied by 13, how many of the resulting numbers will be even?</p>
+  <numericalresponse answer="5">
+    <formulaequationinput label="If each of the counting numbers from 1 through 10 is multiplied by 13, how many of the resulting numbers will be even?"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>The amount of resulting even numbers will be the same as the amount started with.</p>
+</problem>

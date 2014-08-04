@@ -1,0 +1,13 @@
+<problem display_name="Numerical Input" markdown="&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/static/3463.gif&quot; /&gt;&lt;/center&gt;&lt;/p&gt;&#10;&#10;&gt;&gt;What is the slope of the line shown in the graph above? (Answer in decimal form, rounded to the nearest hundredth)&lt;&lt;&#10;= .67&#10;&#10;[explanation]&#10;Slope is change in Y over change in X or rise over run.">
+  <p>
+    <center>
+      <img src="/static/3463.gif"/>
+    </center>
+  </p>
+  <p>What is the slope of the line shown in the graph above? (Answer in decimal form, rounded to the nearest hundredth)</p>
+  <numericalresponse answer=".67">
+    <formulaequationinput label="What is the slope of the line shown in the graph above? (Answer in decimal form, rounded to the nearest hundredth)"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>Slope is change in Y over change in X or rise over run.</p>
+</problem>

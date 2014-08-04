@@ -1,0 +1,7 @@
+<problem display_name="Numerical Input" markdown="&#10;&gt;&gt;360 x 0.3 =&lt;&lt;&#10;= 108&#10;[explanation]&#10;">
+  <p>360 x 0.3 =</p>
+  <numericalresponse answer="108">
+    <formulaequationinput label="360 x 0.3 ="/>
+  </numericalresponse>
+  <p>[explanation]</p>
+</problem>

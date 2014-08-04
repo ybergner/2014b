@@ -1,0 +1,8 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;The postal rate is 25 cents for the first ounce and 20 cents for each additional ounce or part of an ounce. What would it cost to mail a package that weighs 6.8 ounces?&lt;&lt;&#10;= 1.45&#10;&#10;[explanation]&#10;The inital rate plus the additional rate times the weight minus one rounded up.">
+  <p>The postal rate is 25 cents for the first ounce and 20 cents for each additional ounce or part of an ounce. What would it cost to mail a package that weighs 6.8 ounces?</p>
+  <numericalresponse answer="1.45">
+    <formulaequationinput label="The postal rate is 25 cents for the first ounce and 20 cents for each additional ounce or part of an ounce. What would it cost to mail a package that weighs 6.8 ounces?"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>The inital rate plus the additional rate times the weight minus one rounded up.</p>
+</problem>

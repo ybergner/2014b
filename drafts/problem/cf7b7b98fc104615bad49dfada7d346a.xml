@@ -1,0 +1,12 @@
+<problem display_name="Numerical Input" markdown="&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/static/6828.JPG&quot; /&gt;&lt;/center&gt;&lt;/p&gt;&#10;&#10;&gt;&gt;According to the graph above, about how many students chose skiing as their favorite winter sport? (Answer in decimal form, if necessary)&lt;&lt;&#10;= 14&#10;[explanation]&#10;">
+  <p>
+    <center>
+      <img src="/static/6828.JPG"/>
+    </center>
+  </p>
+  <p>According to the graph above, about how many students chose skiing as their favorite winter sport? (Answer in decimal form, if necessary)</p>
+  <numericalresponse answer="14">
+    <formulaequationinput label="According to the graph above, about how many students chose skiing as their favorite winter sport? (Answer in decimal form, if necessary)"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+</problem>

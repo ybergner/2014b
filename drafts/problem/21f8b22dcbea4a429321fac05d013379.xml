@@ -1,0 +1,15 @@
+<problem display_name="Numerical Input" markdown="&lt;p&gt;&lt;i&gt;The following question&lt;/i&gt; refers to the following diagram.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/static/1308.jpg&quot; /&gt;&lt;/center&gt;&lt;/p&gt;&#10;&#10;The diagram is part of a scale drawing of a house.&#10;&#10;&gt;&gt;What is the length, in feet, of the side whose dimension is not given in the diagram?&lt;&lt;&#10;= 36&#10;&#10;&#10;[explanation]&#10;Maths&#10;">
+  <p><i>The following question</i> refers to the following diagram.</p>
+  <p>
+    <center>
+      <img src="/static/1308.jpg"/>
+    </center>
+  </p>
+  <p>The diagram is part of a scale drawing of a house.</p>
+  <p>What is the length, in feet, of the side whose dimension is not given in the diagram?</p>
+  <numericalresponse answer="36">
+    <formulaequationinput label="What is the length, in feet, of the side whose dimension is not given in the diagram?"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>Maths</p>
+</problem>

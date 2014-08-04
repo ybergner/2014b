@@ -1,0 +1,7 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;In a certain restaurant a whole pie has been sliced into 8 equal wedges. Only 2 slices of the pie remain. Three people would each like an equal portion from the remaining slices of pie. What fraction of the original pie should each person receive? (Answer in decimal form, rounded to the nearest thousandth)&lt;&lt;&#10;= .083&#10;&#10;[explanation]&#10;">
+  <p>In a certain restaurant a whole pie has been sliced into 8 equal wedges. Only 2 slices of the pie remain. Three people would each like an equal portion from the remaining slices of pie. What fraction of the original pie should each person receive? (Answer in decimal form, rounded to the nearest thousandth)</p>
+  <numericalresponse answer=".083">
+    <formulaequationinput label="In a certain restaurant a whole pie has been sliced into 8 equal wedges. Only 2 slices of the pie remain. Three people would each like an equal portion from the remaining slices of pie. What fraction of the original pie should each person receive? (Answer in decimal form, rounded to the nearest thousandth)"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+</problem>

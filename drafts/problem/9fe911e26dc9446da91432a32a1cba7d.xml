@@ -1,0 +1,8 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;If the diameter of a circle is 30 centimeters, what is the radius of the circle?&lt;&lt;&#10;= 15&#10;&#10;&#10;[explanation]&#10;The radius is half the of the diameter of a circle.&#10;">
+  <p>If the diameter of a circle is 30 centimeters, what is the radius of the circle?</p>
+  <numericalresponse answer="15">
+    <formulaequationinput label="If the diameter of a circle is 30 centimeters, what is the radius of the circle?"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>The radius is half the of the diameter of a circle.</p>
+</problem>

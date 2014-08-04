@@ -1,0 +1,8 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;The town of Mayville taxes property at a rate of $42 for each $1,000 of estimated value. What is the estimated value of a property on which the owner owes $5,250 in property tax?&lt;&lt;&#10;= 125000&#10;&#10;[explanation]&#10;The number of $1,000 can be found by dividing the property tax by the tax per $1000.">
+  <p>The town of Mayville taxes property at a rate of $42 for each $1,000 of estimated value. What is the estimated value of a property on which the owner owes $5,250 in property tax?</p>
+  <numericalresponse answer="125000">
+    <formulaequationinput label="The town of Mayville taxes property at a rate of $42 for each formulaequationinput,000 of estimated value. What is the estimated value of a property on which the owner owes $5,250 in property tax?"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>The number of $1,000 can be found by dividing the property tax by the tax per $1000.</p>
+</problem>

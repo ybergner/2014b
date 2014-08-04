@@ -1,0 +1,8 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;The average weight of 50 prize-winning tomatoes is 2.36 pounds. What is the combined weight, in pounds, of these 50 tomatoes?&lt;&lt;&#10;= 118&#10;[explanation]&#10;The number of tomatoes multiplied by the average weight of one tomato.">
+  <p>The average weight of 50 prize-winning tomatoes is 2.36 pounds. What is the combined weight, in pounds, of these 50 tomatoes?</p>
+  <numericalresponse answer="118">
+    <formulaequationinput label="The average weight of 50 prize-winning tomatoes is 2.36 pounds. What is the combined weight, in pounds, of these 50 tomatoes?"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>The number of tomatoes multiplied by the average weight of one tomato.</p>
+</problem>

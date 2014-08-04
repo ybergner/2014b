@@ -1,0 +1,12 @@
+<problem display_name="Numerical Input" markdown="&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/static/4057.gif&quot; /&gt;&lt;/center&gt;&lt;/p&gt;&#10;&gt;&gt;The sum of the measures of angles 1 and 2 in the figure above is 90°. What is the measure of the angle formed by the bisectors of these two angles?&lt;&lt;&#10;= 45&#10;&#10;[explanation]&#10;">
+  <p>
+    <center>
+      <img src="/static/4057.gif"/>
+    </center>
+  </p>
+  <p>The sum of the measures of angles 1 and 2 in the figure above is 90°. What is the measure of the angle formed by the bisectors of these two angles?</p>
+  <numericalresponse answer="45">
+    <formulaequationinput label="The sum of the measures of angles 1 and 2 in the figure above is 90°. What is the measure of the angle formed by the bisectors of these two angles?"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+</problem>

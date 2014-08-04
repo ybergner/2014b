@@ -1,0 +1,11 @@
+<problem display_name="Numerical Input" markdown="&lt;p&gt;&lt;i&gt;The following question&lt;/i&gt; refers to the following diagram.&lt;/p&gt; &#10;&lt;p&gt;&lt;img src=&quot;/static/1641.jpg&quot; /&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;If you were to redraw the diagram using a scale of 3/4 inch = 10 feet, what would be the length of the side that is 48 feet?&lt;/p&gt;&#10;= 3.6&#10;&#10;[explanation]&#10;">
+  <p><i>The following question</i> refers to the following diagram.</p>
+  <p>
+    <img src="/static/1641.jpg"/>
+  </p>
+  <p>If you were to redraw the diagram using a scale of 3/4 inch = 10 feet, what would be the length of the side that is 48 feet?</p>
+  <numericalresponse answer="3.6">
+    <formulaequationinput/>
+  </numericalresponse>
+  <p>[explanation]</p>
+</problem>

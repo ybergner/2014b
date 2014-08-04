@@ -1,0 +1,13 @@
+<problem display_name="Numerical Input" markdown="&lt;p&gt; &lt;center&gt;&lt;img src=&quot;/static/6123.gif&quot; /&gt;&lt;/center&gt;&lt;/p&gt;&#10;&#10;&gt;&gt;The nine chips shown above are placed in a sack and then mixed up. Madeline draws one chip from this sack. What is the probability that Madeline draws a chip with an even number? (Answer in decimal form, rounded to the nearest hundredth)&lt;&lt;&#10;= .44&#10;[explanation]&#10;The total number of things you want divided by the total number of things.">
+  <p>
+    <center>
+      <img src="/static/6123.gif"/>
+    </center>
+  </p>
+  <p>The nine chips shown above are placed in a sack and then mixed up. Madeline draws one chip from this sack. What is the probability that Madeline draws a chip with an even number? (Answer in decimal form, rounded to the nearest hundredth)</p>
+  <numericalresponse answer=".44">
+    <formulaequationinput label="The nine chips shown above are placed in a sack and then mixed up. Madeline draws one chip from this sack. What is the probability that Madeline draws a chip with an even number? (Answer in decimal form, rounded to the nearest hundredth)"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>The total number of things you want divided by the total number of things.</p>
+</problem>

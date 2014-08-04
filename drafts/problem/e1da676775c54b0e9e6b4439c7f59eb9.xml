@@ -1,0 +1,16 @@
+<problem display_name="Numerical Input" markdown="&lt;p&gt;&lt;center&gt;GENDER AND COLOR OF PUPPIES&lt;/center&gt;&lt;/p&gt;&#10;&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/static/2246.JPG&quot; /&gt;&lt;/center&gt;&lt;/p&gt;&#10;&#10;&gt;&gt;The table above shows the gender and color of 7 puppies. If a puppy selected at random from the group is brown, what is the probability it is a male? (Answer in decimal form to the nearest hundredth)&lt;&lt;&#10;= .25&#10;&#10;[explanation]&#10;The number of what you want compared to the number of choices containing what you want.">
+  <p>
+    <center>GENDER AND COLOR OF PUPPIES</center>
+  </p>
+  <p>
+    <center>
+      <img src="/static/2246.JPG"/>
+    </center>
+  </p>
+  <p>The table above shows the gender and color of 7 puppies. If a puppy selected at random from the group is brown, what is the probability it is a male? (Answer in decimal form to the nearest hundredth)</p>
+  <numericalresponse answer=".25">
+    <formulaequationinput label="The table above shows the gender and color of 7 puppies. If a puppy selected at random from the group is brown, what is the probability it is a male? (Answer in decimal form to the nearest hundredth)"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>The number of what you want compared to the number of choices containing what you want.</p>
+</problem>

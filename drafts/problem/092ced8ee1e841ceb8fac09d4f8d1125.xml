@@ -1,0 +1,13 @@
+<problem display_name="Numerical Input" markdown="  &lt;p&gt;&lt;center&gt;&lt;img src=&quot;/static/1820.jpg&quot; /&gt;&lt;/center&gt;&lt;/p&gt;&#10;&#10;&gt;&gt;In the figure above, Elm Street is to be constructed parallel to Main Street. What is the value of x ?&lt;&lt;&#10;= 110&#10;[explanation]&#10;Alternating interior angles sum to 180.&#10;&#10;">
+  <p>
+    <center>
+      <img src="/static/1820.jpg"/>
+    </center>
+  </p>
+  <p>In the figure above, Elm Street is to be constructed parallel to Main Street. What is the value of x ?</p>
+  <numericalresponse answer="110">
+    <formulaequationinput label="In the figure above, Elm Street is to be constructed parallel to Main Street. What is the value of x ?"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>Alternating interior angles sum to 180.</p>
+</problem>

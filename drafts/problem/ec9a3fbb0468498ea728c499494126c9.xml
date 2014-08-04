@@ -1,0 +1,8 @@
+<problem display_name="Numerical Input" markdown="&lt;p&gt;The first term in a sequence of numbers is 1/2 . Each term after the first term is 1 more than twice its previous term. What is the 4th term?&lt;/p&gt;&#10;= 11&#10;&#10;[explanation]&#10;Expand the sequence following the pattern.">
+  <p>The first term in a sequence of numbers is 1/2 . Each term after the first term is 1 more than twice its previous term. What is the 4th term?</p>
+  <numericalresponse answer="11">
+    <formulaequationinput/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>Expand the sequence following the pattern.</p>
+</problem>

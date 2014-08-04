@@ -1,0 +1,8 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;What is the least whole number x for which 2 x &gt; 11 ?&lt;&lt;&#10;= 6&#10;[explanation]&#10;11 divided by two is 5.5, rounding up gives you the next whole number that is greater than 11 when multipled by 2.">
+  <p>What is the least whole number x for which 2 x &gt; 11 ?</p>
+  <numericalresponse answer="6">
+    <formulaequationinput label="What is the least whole number x for which 2 x &gt; 11 ?"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>11 divided by two is 5.5, rounding up gives you the next whole number that is greater than 11 when multipled by 2.</p>
+</problem>

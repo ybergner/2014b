@@ -1,0 +1,8 @@
+<problem display_name="Numerical Input" markdown="null">
+  <p>The cost to mail a first-class letter is 33 cents for the first ounce. Each additional ounce costs 22 cents. (Fractions of an ounce are rounded up to the next whole ounce.)</p>
+  <p>How much would it cost to mail a letter that weighs 2.7 ounces? </p>
+  <numericalresponse answer="77">
+    <formulaequationinput label="How much would it cost to mail a letter that weighs 2.7 ounces?"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+</problem>

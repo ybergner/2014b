@@ -1,0 +1,8 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;A fair coin is to be tossed three times. What is the probability that 2 heads and 1 tail in any order will come up? (Answer in decimal form)&lt;&lt;&#10;= .375&#10;&#10;[explanation]&#10;The number of the orderings times the probability of each ordering.">
+  <p>A fair coin is to be tossed three times. What is the probability that 2 heads and 1 tail in any order will come up? (Answer in decimal form)</p>
+  <numericalresponse answer=".375">
+    <formulaequationinput label="A fair coin is to be tossed three times. What is the probability that 2 heads and 1 tail in any order will come up? (Answer in decimal form)"/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>The number of the orderings times the probability of each ordering.</p>
+</problem>

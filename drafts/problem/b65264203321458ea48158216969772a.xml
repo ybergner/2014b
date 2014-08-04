@@ -1,0 +1,7 @@
+<problem display_name="Text Input" markdown="&gt;&gt;A certain company keeps a list of 50 employees and their annual salaries. When the salary of the very highly paid president is added to this list, which of the following measure of central tendency is most likely to be approximately the same or nearly the same for the original list and the new list?&lt;&lt;&#10;= Median&#10;[explanation]&#10;">
+  <p>A certain company keeps a list of 50 employees and their annual salaries. When the salary of the very highly paid president is added to this list, which of the following measure of central tendency is most likely to be approximately the same or nearly the same for the original list and the new list?</p>
+  <stringresponse answer="Median" type="ci">
+    <textline label="A certain company keeps a list of 50 employees and their annual salaries. When the salary of the very highly paid president is added to this list, which of the following measure of central tendency is most likely to be approximately the same or nearly the same for the original list and the new list?" size="20"/>
+  </stringresponse>
+  <p>[explanation]</p>
+</problem>

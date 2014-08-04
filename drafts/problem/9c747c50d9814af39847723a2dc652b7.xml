@@ -1,0 +1,13 @@
+<problem display_name="Numerical Input" markdown="&#10;  &lt;p&gt;&lt;center&gt;&lt;img src=&quot;/static/1178.png&quot; /&gt;&lt;/center&gt;&lt;/p&gt;&#10;&#10;&gt;&gt;On level ground from a distance of 200 feet, the angle of elevation to the top of a building is 21°, as shown in the figure above. What is the height h of the building, to the nearest foot? &lt;&lt;&#10;= 77&#10;&#10;[explanation]&#10;Tangent is opposite over adjacent.">
+  <p>
+    <center>
+      <img src="/static/1178.png"/>
+    </center>
+  </p>
+  <p>On level ground from a distance of 200 feet, the angle of elevation to the top of a building is 21°, as shown in the figure above. What is the height h of the building, to the nearest foot? </p>
+  <numericalresponse answer="77">
+    <formulaequationinput label="On level ground from a distance of 200 feet, the angle of elevation to the top of a building is 21°, as shown in the figure above. What is the height h of the building, to the nearest foot? "/>
+  </numericalresponse>
+  <p>[explanation]</p>
+  <p>Tangent is opposite over adjacent.</p>
+</problem>
