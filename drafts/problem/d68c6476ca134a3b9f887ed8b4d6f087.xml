@@ -1,8 +1,0 @@
-<problem display_name="Numerical Input" markdown="&gt;&gt;Pencils sell individually for $0.07 each or in packs of 12 for $0.79 per pack. How much is saved when 24 pencils are purchased by the pack instead of individually?&lt;&lt;&#10;= 0.10&#10;[explanation]&#10;Find the difference of the cost of the total number of packs and the cost of the total number of pencils">
-  <p>Pencils sell individually for $0.07 each or in packs of 12 for $0.79 per pack. How much is saved when 24 pencils are purchased by the pack instead of individually?</p>
-  <numericalresponse answer="0.10">
-    <formulaequationinput label="Pencils sell individually for $0.07 each or in packs of 12 for $0.79 per pack. How much is saved when 24 pencils are purchased by the pack instead of individually?"/>
-  </numericalresponse>
-  <p>[explanation]</p>
-  <p>Find the difference of the cost of the total number of packs and the cost of the total number of pencils</p>
-</problem>

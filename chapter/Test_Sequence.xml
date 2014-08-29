@@ -2,9 +2,10 @@
 <sequential display_name="Math Test">
     <problem url_name="4bc6f981a0e0404fbbd50a279f044007"/>
     <problem url_name="6e9dd117e4034311a543d1ab419b390c"/>
+    <problem url_name="problem7"/>
     
     <problem url_name="9b27963f58df4fdca0199cc3f1bc3352"/>
-    <conditional display_name="Survey" message="{link} must be attempted before this will become visible." sources="i4x://ICA/Collaborative_Math/problem/9b27963f58df4fdca0199cc3f1bc3352" attempted="True">
+    <conditional display_name="Brief Survey" message="{link} must be attempted before this will become visible." sources="i4x://ICA/Collaborative_Math/problem/9b27963f58df4fdca0199cc3f1bc3352" attempted="True">
         <problem url_name="Survey"/>
     </conditional>
     <conditional display_name="Completion Code" message="{link} must be attempted before this will become visible." sources="i4x://ICA/Collaborative_Math/problem/Survey" attempted="True">

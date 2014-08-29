@@ -1,4 +1,3 @@
-<course course_image="1641.jpg" disable_progress_graph="true" display_name="Collaborative Math 2014b" ispublic="false" max_attempts="0" show_calculator="true" showanswer="never" start="2014-05-01T23:00:00Z" use_latex_compiler="true">
+<course advanced_modules="[&quot;peergrading&quot;, &quot;combinedopenended&quot;]" course_image="1641.jpg" display_name="Collaborative Math 2014b" rerandomize="per_student" showanswer="never" start="2014-05-01T23:00:00Z">
   <chapter url_name="Test_Sequence"/>
-  <wiki slug="ICA.Collaborative_Math.2014b"/>
 </course>

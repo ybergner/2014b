@@ -1,8 +1,0 @@
-<problem display_name="Numerical Input" markdown="&lt;p&gt;It takes 64 identical cubes to &lt;u&gt;half&lt;/u&gt; fill a rectangular box. If each cube has a volume of 8 cubic centimeters, what is the volume of the box in cubic centimeters?&lt;/p&gt;&#10;&#10;= 1024&#10;&#10;[explanation]&#10;Double the volume of the cubes needed to half fill the box.">
-  <p>It takes 64 identical cubes to <u>half</u> fill a rectangular box. If each cube has a volume of 8 cubic centimeters, what is the volume of the box in cubic centimeters?</p>
-  <numericalresponse answer="1024">
-    <formulaequationinput/>
-  </numericalresponse>
-  <p>[explanation]</p>
-  <p>Double the volume of the cubes needed to half fill the box.</p>
-</problem>

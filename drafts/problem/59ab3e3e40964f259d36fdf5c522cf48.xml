@@ -1,8 +1,0 @@
-<problem display_name="Numerical Input" markdown="&#10;&gt;&gt;If a 2 by 18 rectangle has the same area as a square, what is the length of a side of the square?&lt;&lt;&#10;= 6&#10;&#10;[explanation]&#10;Take the square root of the area of the rectangle.">
-  <p>If a 2 by 18 rectangle has the same area as a square, what is the length of a side of the square?</p>
-  <numericalresponse answer="6">
-    <formulaequationinput label="If a 2 by 18 rectangle has the same area as a square, what is the length of a side of the square?"/>
-  </numericalresponse>
-  <p>[explanation]</p>
-  <p>Take the square root of the area of the rectangle.</p>
-</problem>

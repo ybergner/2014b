@@ -1,7 +1,0 @@
-<problem display_name="Numerical Input" markdown="&lt;p&gt;A rectangular pool 24 feet long, 8 feet wide, and 4 feet deep is filled with water. Water is leaking from the pool at the rate of 0.40 cubic feet per minute. At this rate, how many &lt;u&gt;hours&lt;/u&gt; will it take for the water level to drop 1 foot?&lt;/p&gt;&#10;= 8&#10;&#10;[explanation]&#10;">
-  <p>A rectangular pool 24 feet long, 8 feet wide, and 4 feet deep is filled with water. Water is leaking from the pool at the rate of 0.40 cubic feet per minute. At this rate, how many <u>hours</u> will it take for the water level to drop 1 foot?</p>
-  <numericalresponse answer="8">
-    <formulaequationinput/>
-  </numericalresponse>
-  <p>[explanation]</p>
-</problem>

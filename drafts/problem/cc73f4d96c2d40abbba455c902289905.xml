@@ -1,8 +1,0 @@
-<problem display_name="Numerical Input" markdown="&gt;&gt;Debbie runs 0.6 of a mile every day. How many miles will Debbie run in 45 days?&lt;&lt;&#10;= 27&#10;&#10;&#10;[explanation]&#10;.6 times 45 days = 27">
-  <p>Debbie runs 0.6 of a mile every day. How many miles will Debbie run in 45 days?</p>
-  <numericalresponse answer="27">
-    <formulaequationinput label="Debbie runs 0.6 of a mile every day. How many miles will Debbie run in 45 days?"/>
-  </numericalresponse>
-  <p>[explanation]</p>
-  <p>.6 times 45 days = 27</p>
-</problem>

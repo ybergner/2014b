@@ -1,0 +1,37 @@
+<problem display_name="Problem 7">
+
+<script type="text/python" system_path="python_lib">
+def hintfn1(answer_ids, student_answers, new_cmap, old_cmap):
+	global expect
+	aid = answer_ids[0]
+	ans = student_answers[aid]
+	if new_cmap.is_correct(aid):
+		hint='Your answer has been submitted'
+		new_cmap.set_hint_and_mode(aid,hint,'always')
+		new_cmap.set_property(aid,'npoints',1)
+		new_cmap.set_property(aid,'correctness','corrrectnr')
+	else:
+		hint='Your answer has been submitted'
+		new_cmap.set_hint_and_mode(aid,hint,'always')
+		new_cmap.set_property(aid,'npoints',1)
+		new_cmap.set_property(aid,'correctness','incorrectnr')
+	old_cmap=new_cmap
+</script>
+
+    <multiplechoiceresponse>
+     <choicegroup type="MultipleChoice">
+        <choice correct="true" name="1"><text>choice 1</text></choice>
+        <choice correct="false" name="2"><text>choice 2</text></choice>
+        <choice correct="false" name="3"><text>choice 3</text></choice>
+        <choice correct="false" name="4"><text>choice 4</text></choice>
+        <choice correct="false" name="5"><text>choice 5</text></choice>
+     </choicegroup>
+             <hintgroup hintfn="hintfn1"/>
+    </multiplechoiceresponse>
+
+    <solution>
+        <div class="detailed-solution">
+        </div>
+    </solution>
+
+</problem>

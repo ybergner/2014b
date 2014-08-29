@@ -1,8 +1,0 @@
-<problem display_name="Numerical Input" markdown="&gt;&gt;If x = -4, the value of -4x is:&lt;&lt;&#10;= 16&#10;[explanation]&#10;A negative multiplied by a negative is a positive.">
-  <p>If x = -4, the value of -4x is:</p>
-  <numericalresponse answer="16">
-    <formulaequationinput label="If x = -4, the value of -4x is:"/>
-  </numericalresponse>
-  <p>[explanation]</p>
-  <p>A negative multiplied by a negative is a positive.</p>
-</problem>

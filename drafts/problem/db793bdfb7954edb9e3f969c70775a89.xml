@@ -1,8 +1,0 @@
-<problem display_name="Numerical Input" markdown="&gt;&gt;Raymond must buy enough paper to print 28 copies of a report that contains 64 sheets of paper. Paper is only available in packages of 500 sheets. How many whole packages of paper will he need to buy to do the printing?&lt;&lt;&#10;= 4&#10;[explanation]&#10;Find total sheets of paper and divide by sheets in package and add one if remainder.">
-  <p>Raymond must buy enough paper to print 28 copies of a report that contains 64 sheets of paper. Paper is only available in packages of 500 sheets. How many whole packages of paper will he need to buy to do the printing?</p>
-  <numericalresponse answer="4">
-    <formulaequationinput label="Raymond must buy enough paper to print 28 copies of a report that contains 64 sheets of paper. Paper is only available in packages of 500 sheets. How many whole packages of paper will he need to buy to do the printing?"/>
-  </numericalresponse>
-  <p>[explanation]</p>
-  <p>Find total sheets of paper and divide by sheets in package and add one if remainder.</p>
-</problem>

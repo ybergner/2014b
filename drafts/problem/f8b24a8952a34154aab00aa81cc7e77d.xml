@@ -1,8 +1,0 @@
-<problem display_name="Numerical Input" markdown="&gt;&gt;In decimal form, how many hours are equal to 150 minutes?&lt;&lt;&#10;= 2.5&#10;[explanation]&#10;Divide the total number of minutes by the number of minutes in one hour.">
-  <p>In decimal form, how many hours are equal to 150 minutes?</p>
-  <numericalresponse answer="2.5">
-    <formulaequationinput label="In decimal form, how many hours are equal to 150 minutes?"/>
-  </numericalresponse>
-  <p>[explanation]</p>
-  <p>Divide the total number of minutes by the number of minutes in one hour.</p>
-</problem>

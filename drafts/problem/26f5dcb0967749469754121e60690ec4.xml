@@ -1,8 +1,0 @@
-<problem display_name="Numerical Input" markdown="&gt;&gt;Rulers cost $0.85 each, including tax. How many rulers can Tom buy if he has $7.00?&lt;&lt;&#10;= 8&#10;[explanation]&#10;The whole number result of dividing the total amount of money by the cost of each item.">
-  <p>Rulers cost $0.85 each, including tax. How many rulers can Tom buy if he has $7.00?</p>
-  <numericalresponse answer="8">
-    <formulaequationinput label="Rulers cost $0.85 each, including tax. How many rulers can Tom buy if he has $7.00?"/>
-  </numericalresponse>
-  <p>[explanation]</p>
-  <p>The whole number result of dividing the total amount of money by the cost of each item.</p>
-</problem>

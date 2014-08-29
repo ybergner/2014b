@@ -1,7 +1,0 @@
-<problem display_name="Numerical Input" markdown="&gt;&gt;The least common multiple of 8, 12, and a third number is 120. Which of the following could be the third number?&lt;&lt;&#10;= 15&#10;&#10;[explanation]&#10;">
-  <p>The least common multiple of 8, 12, and a third number is 120. Which of the following could be the third number?</p>
-  <numericalresponse answer="15">
-    <formulaequationinput label="The least common multiple of 8, 12, and a third number is 120. Which of the following could be the third number?"/>
-  </numericalresponse>
-  <p>[explanation]</p>
-</problem>

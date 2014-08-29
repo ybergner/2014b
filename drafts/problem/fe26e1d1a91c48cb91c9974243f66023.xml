@@ -1,8 +1,0 @@
-<problem display_name="Numerical Input" markdown="&#10;&gt;&gt;A cat lies crouched on level ground 50 feet away from the base of a tree. The cat can see a bird's nest directly above the base of the tree. The angle of elevation from the cat to the bird's nest is 40°. To the nearest foot, how far above the base of the tree is the bird's nest?&lt;&lt;&#10;&#10;= 42&#10;&#10;[explanation]&#10;Tangent is opposite over adjacent.">
-  <p>A cat lies crouched on level ground 50 feet away from the base of a tree. The cat can see a bird's nest directly above the base of the tree. The angle of elevation from the cat to the bird's nest is 40°. To the nearest foot, how far above the base of the tree is the bird's nest?</p>
-  <numericalresponse answer="42">
-    <formulaequationinput label="A cat lies crouched on level ground 50 feet away from the base of a tree. The cat can see a bird's nest directly above the base of the tree. The angle of elevation from the cat to the bird's nest is 40°. To the nearest foot, how far above the base of the tree is the bird's nest?"/>
-  </numericalresponse>
-  <p>[explanation]</p>
-  <p>Tangent is opposite over adjacent.</p>
-</problem>

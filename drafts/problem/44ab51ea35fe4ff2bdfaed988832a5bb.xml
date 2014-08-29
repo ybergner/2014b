@@ -1,8 +1,0 @@
-<problem display_name="Numerical Input" markdown="&gt;&gt;A certain machine produces 300 nails per minute. At this rate, how long will it take the machine to produce enough nails to fill 5 boxes of nails if each box will contain 250 nails? (Answer in decimal form, rounded to the nearest hundredth)&lt;&lt;&#10;= 4.17 min&#10;&#10;[explanation]&#10;Total number of nails to be produced divided by the number of nails produced per minute.">
-  <p>A certain machine produces 300 nails per minute. At this rate, how long will it take the machine to produce enough nails to fill 5 boxes of nails if each box will contain 250 nails? (Answer in decimal form, rounded to the nearest hundredth)</p>
-  <numericalresponse answer="4.17min">
-    <formulaequationinput label="A certain machine produces 300 nails per minute. At this rate, how long will it take the machine to produce enough nails to fill 5 boxes of nails if each box will contain 250 nails? (Answer in decimal form, rounded to the nearest hundredth)"/>
-  </numericalresponse>
-  <p>[explanation]</p>
-  <p>Total number of nails to be produced divided by the number of nails produced per minute.</p>
-</problem>

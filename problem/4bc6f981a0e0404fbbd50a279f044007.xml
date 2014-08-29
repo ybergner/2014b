@@ -1,5 +1,4 @@
-<problem display_name="Numerical Input" markdown="null" weight="0.0">
-
+<problem display_name="Numerical Input">
 <script type="text/python" system_path="python_lib">
 def hintfn1(answer_ids, student_answers, new_cmap, old_cmap):
 	global expect
@@ -30,7 +29,8 @@ def hintfn1(answer_ids, student_answers, new_cmap, old_cmap):
       <textline inline="1">
         <responseparam type="tolerance" default="0%"/>
       </textline>
+          <p style="display:inline">cents</p>
+                   <hintgroup hintfn="hintfn1"/>
     </numericalresponse>
-    <p style="display:inline">cents</p>
   </p>
 </problem>

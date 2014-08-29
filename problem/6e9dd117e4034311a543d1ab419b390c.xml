@@ -1,4 +1,4 @@
-<problem display_name="Numerical Input" markdown="&lt;p&gt;What is the distance between the points (2,10) and (-4,2) in the &lt;i&gt;xy&lt;/i&gt;-plane?&lt;/p&gt;&#10;= 10&#10;&#10;[explanation]&#10;Distance formula">
+<problem display_name="Numerical Input">
 
 <script type="text/python" system_path="python_lib">
 def hintfn1(answer_ids, student_answers, new_cmap, old_cmap):
@@ -21,7 +21,6 @@ def hintfn1(answer_ids, student_answers, new_cmap, old_cmap):
   <p>What is the distance between the points (2,10) and (-4,2) in the <i>xy</i>-plane?</p>
   <numericalresponse answer="10">
     <formulaequationinput/>
+                 <hintgroup hintfn="hintfn1"/>
   </numericalresponse>
-  <p>[explanation]</p>
-  <p>Distance formula</p>
 </problem>
